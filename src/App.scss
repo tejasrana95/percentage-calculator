@@ -1,0 +1,29 @@
+.middleAligned{
+    align-items: center;
+}
+.ans {
+    padding: 2px;
+    background-color: #F9f9f9;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 22px;
+    min-height: 38px;
+}
+
+fieldset{
+    min-width: 0;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 1px solid #d0d0d0;
+    border-radius: 4px;
+    legend{
+        float: initial;
+        width: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 0;
+        font-size: 16px;
+        text-align: center;
+    }
+}
